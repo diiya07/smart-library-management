@@ -111,7 +111,7 @@ class _LibraryHomeState extends State<LibraryHome> {
                 isAdmin = value;
               });
             },
-            activeColor: Colors.white,
+            activeThumbColor: Colors.white,
             activeTrackColor: Colors.green,
             inactiveThumbColor: Colors.white,
             inactiveTrackColor: Colors.blue,
